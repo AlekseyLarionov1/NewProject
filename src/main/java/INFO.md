@@ -1,1 +1,1 @@
-git is awesome! // на нахуй
+git is awesome!
